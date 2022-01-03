@@ -41,3 +41,17 @@
 - [Синонимы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/15441187e4f8abe6074d2c01b1e6fdb776a869ae/Week%202/Synonyms.cpp)
 
 - [Автобусные остановки — 3](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/15441187e4f8abe6074d2c01b1e6fdb776a869ae/Week%202/Bus%20stops%20%233.cpp)
+
+## Неделя 3
+
+### Задания по программированию:
+
+- [Сортировка целых чисел по модулю](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/5170e6a76bb2e713994154879ba0c9caff3692a4/Week%203/Sorting%20integers%20modulo.cpp)
+
+- [Сортировка без учёта регистра](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/5170e6a76bb2e713994154879ba0c9caff3692a4/Week%203/Case-insensitive%20sorting.cpp)
+
+- [Имена и фамилии — 1](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/5170e6a76bb2e713994154879ba0c9caff3692a4/Week%203/First%20and%20last%20names%20%231.cpp)
+
+- [Имена и фамилии — 2](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/5170e6a76bb2e713994154879ba0c9caff3692a4/Week%203/First%20and%20last%20names%20%232.cpp)
+
+- [Имена и фамилии — 3](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/5170e6a76bb2e713994154879ba0c9caff3692a4/Week%203/First%20and%20last%20names%20%233.cpp)
