@@ -84,4 +84,8 @@
 
 - [Работа с сервером времени](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Working%20with%20the%20time%20server.cpp)
 
-- []()
+## Неделя 5
+
+### Задания по программированию:
+
+- [Финальная задача курса](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e427d9eb6b1972559f0898ba7b032434f0b768f0/Week%205/Final%20task%20of%20the%20course.cpp)
