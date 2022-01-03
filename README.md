@@ -70,14 +70,18 @@
 
 - [Чтение и вывод таблицы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e4fc65ea885c889d36d8a63339d134b120adbfbb/Week%204/Reading%20and%20output%20of%20the%20table.cpp)
 
-- [Класс Rational — 1]()
+- [Класс Rational — 1](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Class%20Rational%20%231.cpp)
 
-- [Класс Rational — 2]()
+- [Класс Rational — 2](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Class%20Rational%20%232.cpp)
 
-- [Класс Rational — 3]()
+- [Класс Rational — 3](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Class%20Rational%20%233.cpp)
 
-- [Класс Rational — 4]()
+- [Класс Rational — 4](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Class%20Rational%20%234.cpp)
 
-- [Класс Rational — 5]()
+- [Класс Rational — 5](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Class%20Rational%20%235.cpp)
+
+- [Исключения в классе Rational](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Exceptions%20in%20the%20Rational%20class.cpp)
+
+- [Работа с сервером времени](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/f7473f9a83882dfee3f58db18feb6173a7bf7569/Week%204/Working%20with%20the%20time%20server.cpp)
 
 - []()
