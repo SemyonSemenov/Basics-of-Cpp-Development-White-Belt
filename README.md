@@ -55,3 +55,29 @@
 - [Имена и фамилии — 2](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/5170e6a76bb2e713994154879ba0c9caff3692a4/Week%203/First%20and%20last%20names%20%232.cpp)
 
 - [Имена и фамилии — 3](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/5170e6a76bb2e713994154879ba0c9caff3692a4/Week%203/First%20and%20last%20names%20%233.cpp)
+
+## Неделя 4
+
+### Задания по программированию:
+
+- [Структура LectureTitle](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e4fc65ea885c889d36d8a63339d134b120adbfbb/Week%204/Structure%20LectureTitle.cpp)
+
+- [Обратимая функция с умножением и делением](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e4fc65ea885c889d36d8a63339d134b120adbfbb/Week%204/Reversible%20function%20with%20multiplication%20and%20division.cpp)
+
+- [Работа с файлами — 1](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e4fc65ea885c889d36d8a63339d134b120adbfbb/Week%204/Working%20with%20files%20%231.cpp)
+
+- [Работа с файлами — 2](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e4fc65ea885c889d36d8a63339d134b120adbfbb/Week%204/Working%20with%20files%20%232.cpp)
+
+- [Чтение и вывод таблицы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e4fc65ea885c889d36d8a63339d134b120adbfbb/Week%204/Reading%20and%20output%20of%20the%20table.cpp)
+
+- [Класс Rational — 1]()
+
+- [Класс Rational — 2]()
+
+- [Класс Rational — 3]()
+
+- [Класс Rational — 4]()
+
+- [Класс Rational — 5]()
+
+- []()
