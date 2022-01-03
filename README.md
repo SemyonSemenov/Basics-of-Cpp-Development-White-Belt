@@ -18,7 +18,7 @@
 
 - [Двоичные числа](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/85de0c7c0e90b54d4e1b45fe0a11eff36a47d993/Week%201/Binary%20numbers.cpp)
 
-## Неделя 1
+## Неделя 2
 
 ### Задания по программированию:
 
@@ -41,5 +41,3 @@
 - [Синонимы](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/15441187e4f8abe6074d2c01b1e6fdb776a869ae/Week%202/Synonyms.cpp)
 
 - [Автобусные остановки — 3](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/15441187e4f8abe6074d2c01b1e6fdb776a869ae/Week%202/Bus%20stops%20%233.cpp)
-
-- []()
